@@ -1,9 +1,8 @@
 ---
-layout: default
+layout: post
+author: J
 ---
-
-## Welcome to another page
 
 _yay_
 
-[back](./)
+[back](https://yifanjiang.github.io/)
